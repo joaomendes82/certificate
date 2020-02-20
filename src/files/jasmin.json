@@ -1,0 +1,81 @@
+{
+  "documentType": "FAT",
+  "serie": "2020",
+  "seriesNumber": 1,
+  "company": "PRIMAVERABSS",
+  "paymentTerm": "02",
+  "paymentMethod": "NUM",
+  "currency": "EUR",
+  "documentDate": "2020-03-12T00:00:00",
+  "postingDate": "2020-03-12T00:00:00",
+  "buyerCustomerParty": "_1234500000",
+  "buyerCustomerPartyName": "Sofrio Lda.",
+  "accountingParty": "_1234500000",
+  "exchangeRate": 1.0,
+  "discount": 1.000000,
+  "loadingCountry": "PT",
+  "unloadingCountry": "PT",
+  "isExternal": false,
+  "isManual": false,
+  "isWsCommunicable": false,
+  "discountInValueAmount": {
+    "amount": 0.000000,
+    "baseAmount": 0.000000,
+    "reportingAmount": 0.000000,
+    "fractionDigits": 2,
+    "symbol": "€"
+  },
+  "documentLines": [{
+    "salesItem": "0001",
+    "description": "Palmeira areca em vaso grês",
+    "quantity": 1.0,
+    "unitPrice": {
+      "amount": 90.000000,
+      "baseAmount": 90.000000,
+      "reportingAmount": 90.000000,
+      "fractionDigits": 2,
+      "symbol": "€"
+    },
+    "unit": "HORA",
+    "itemTaxSchema": "IVA-TN",
+    "partyTaxSchema": "IVA-RN-MN",
+    "taxTotal": {
+      "amount": 20.490000,
+      "baseAmount": 20.490000,
+      "reportingAmount": 20.490000,
+      "fractionDigits": 2,
+      "symbol": "€"
+    },
+    "allowanceChargeAmount": {
+      "amount": 0.900000,
+      "baseAmount": 0.900000,
+      "reportingAmount": 0.900000,
+      "fractionDigits": 2,
+      "symbol": "€"
+    },
+    "taxExclusiveAmount": {
+      "amount": 89.100000,
+      "baseAmount": 89.100000,
+      "reportingAmount": 89.100000,
+      "fractionDigits": 2,
+      "symbol": "€"
+    },
+    "grossValue": {
+      "amount": 90.000000,
+      "baseAmount": 90.000000,
+      "reportingAmount": 90.000000,
+      "fractionDigits": 2,
+      "symbol": "€"
+    },
+    "lineExtensionAmount": {
+      "amount": 109.590000,
+      "baseAmount": 109.590000,
+      "reportingAmount": 109.590000,
+      "fractionDigits": 2,
+      "symbol": "€"
+    },
+    "currency": "EUR",
+    "itemType": 1,
+    "warehouse": "A2"
+  }]
+}
